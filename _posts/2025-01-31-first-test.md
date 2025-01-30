@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Only in English
+title: Only in English Not Chinese？
 subtitle: little test
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -9,6 +9,9 @@ tags: [books, test]
 author: MiNG
 ---
 
+
+
+Follow all the types just like the last one
 
 为什么不行呢？
 就是觉得很奇怪？
