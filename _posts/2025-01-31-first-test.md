@@ -2,9 +2,6 @@
 layout: post
 title: Only in English Not Chinese？
 subtitle: little test
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
 tags: [books, test]
 author: MiNG
 ---
